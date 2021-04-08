@@ -1,1 +1,1 @@
-# Tableau-Project
+Under this project, I preapred tableau sheets and dashboard based on the Microsft Contoso Retail dataset. This project helped me to get familiar with the Tableau Desktop and its different features. Different data visualization techniques were learned.
